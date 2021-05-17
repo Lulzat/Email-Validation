@@ -1,0 +1,8 @@
+C:\Users\jmiller\Documents\DynaChange\jlm_EmailValidation_v00\bin\Debug\jlm_EmailValidation_v00.dll
+C:\Users\jmiller\Documents\DynaChange\jlm_EmailValidation_v00\bin\Debug\jlm_EmailValidation_v00.pdb
+C:\Users\jmiller\Documents\DynaChange\jlm_EmailValidation_v00\bin\Debug\P21.Extensions.dll
+C:\Users\jmiller\Documents\DynaChange\jlm_EmailValidation_v00\obj\Debug\jlm_EmailValidation_v00.csprojAssemblyReference.cache
+C:\Users\jmiller\Documents\DynaChange\jlm_EmailValidation_v00\obj\Debug\jlm_EmailValidation_v00.csproj.CoreCompileInputs.cache
+C:\Users\jmiller\Documents\DynaChange\jlm_EmailValidation_v00\obj\Debug\jlm_EmailValidation_v00.csproj.CopyComplete
+C:\Users\jmiller\Documents\DynaChange\jlm_EmailValidation_v00\obj\Debug\jlm_EmailValidation_v00.dll
+C:\Users\jmiller\Documents\DynaChange\jlm_EmailValidation_v00\obj\Debug\jlm_EmailValidation_v00.pdb
